@@ -4,13 +4,13 @@ This is the semantic segmentation projects of Cardiac Catheterization X-Ray. I u
 
 # Python libraries
 
-Matplotlib
-Keras U-Net
-tensorflow
-os
-Numpy
-Pandas
-sklearn
+- Matplotlib
+- Keras U-Net
+- tensorflow
+- Numpy
+- Pandas
+- sklearn
+- OpenCV
 
 # DataSet
 
